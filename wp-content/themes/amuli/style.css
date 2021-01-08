@@ -1,12 +1,12 @@
 /*
 Theme Name: Amuli
-Theme URI: http://amuli.axiomthemes.com/
+Theme URI: https://amuli.axiomthemes.com/
 Description: Amuli is a Premium WordPress theme that has built-in support for popular Page Builders, slider with swipe gestures, and is SEO- and Retina-ready. The unique system of inheritance and override options allows setting up individual parameters for different sections of your site and supported plugins.
 Author: AxiomThemes
 Author URI: https://axiomthemes.com/
 Version: 2.0.0
 License: GNU General Public License v2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Tags: flexible-header, custom-background, custom-colors, custom-header, custom-menu, featured-image-header, featured-images, full-width-template, microformats, post-formats, theme-options, threaded-comments, translation-ready
 Text Domain: amuli
 */
@@ -46,7 +46,7 @@ html {
   font-size: 100%;
   /*62.5%;*/
                 	          		/* Corrects text resizing oddly in IE6/7 when body font-size is set using em units
-									   http://clagnut.com/blog/348/#c790 */
+									   https://clagnut.com/blog/348/#c790 */
   -webkit-text-size-adjust: 100%;
   /* Prevents iOS text size adjust after orientation change, without disabling user zoom */
   -ms-text-size-adjust: 100%;
